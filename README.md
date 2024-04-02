@@ -1,2 +1,2 @@
-# Fonte-de-tens-o-ajust-vel
+# Fonte_de_tensao_ajustavel
 Project academic
