@@ -19,14 +19,14 @@ Construir uma fonte capaz de transformar a corrente alternada de tensão média 
 
 ## Componentes:
 
-* **Transformador**: é o primeiro componente, que transforma os 127v da ddp proveninete da tomada para valores menores desejados para o projeto. O transformador escolhido é capaz de abaixar a tensão alternada de 110 volts para 12 volts com 24v de pico, mas não altera as propriedades da tensão e da corrente, mantendo ambas alternadas.
-* **Ponte de diodo**: é o segundo momento do circuito em que faz a corrente deixar de ser alternada, mas mantém a corrente pulsada, pois faz os ciclos da corrente passarem para o circuito sempre de maneira positiva.
-* **Capacitor**: é o terceiro componente (em paralelo com todo o restante do circuito), que armazena a carga durante os ciclos da corrente alternada, liberando corrente quando a tensão interna é maior que a tensão vinda da fonte. Descarrega quando ocorre a inversão de ciclo. Como demonstrado nos cálculos da próxima seção, para alcançar o valor de riple de 10% (2,4V pois o pico é de 24V), a capacitância calculada deve ser de 347uF, portanto, optamos por pegar o capacitor de 470uF pela folga e compatibilidade con valores comerciais.
-* **Resistores**: estão presentes por todo o circuito para limitar a corrente e evitar a queima dos dispositivos. Os resistores estão associados em série com vários componentes, tais como: o LED, o Diodo Zener, o potenciômetro e na saída final (para fins de medição).
-* **LED**: é o próximo item em paralelo ao capacitor, que permite mostrar a passagem da corrente, ou seja, mostrar que a fonte está operante.
-*  **Diodo Zener**: é o quarto período do circuito que regula a tensão máxima. Ele mantém a tensão dos seus terminais fixa numa tensão constante, no caso, em 13v, quando a tensão fornecida a ele é maior que a constante. Além disso, se oferecida uma ddp insuficiente para alcançar a constante, o diodo não conduz e não interfere no circuito.
-*  **Potenciometro**: é o quinto momento do circuito, que consiste num resistor variável que permitirá o controle do valor da tensão resultante entre 3 e 12 volts.
-*  **Transistor**: é a parte final do circuito, que amplifica a corrente pequena que chega na sua base para o desejado de no máximo 100mA. 
+* **Transformador**: 
+* **Ponte de diodo**: Converte a corrente alternada em corrente contínua pulsada, permitindo que a corrente flua sempre em uma direção.
+* **Capacitor**: Armazena a carga durante os ciclos de corrente alternada, liberando-a quando a tensão interna é maior que a tensão de entrada. 
+* **Resistores**: Presentes em todo o circuito para limitar a corrente e evitar danos aos dispositivos.
+* **LED**:  Indica a passagem de corrente, fornecendo um indicador visual do funcionamento do circuito.
+*  **Diodo Zener**: Regula a tensão máxima para 13V, mantendo-a constante quando a tensão de entrada excede esse valor.
+*  **Potenciometro**:  Permite o controle variável da tensão de saída entre 3 e 12 volts, atuando como um resistor variável.
+*  **Transistor**: Amplifica a corrente pequena que chega à sua base para uma corrente máxima de 100mA, atuando como uma parte final do circuito.
 
 ## Cálculo do capacitor
 
