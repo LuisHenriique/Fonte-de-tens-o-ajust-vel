@@ -15,7 +15,7 @@ Construir uma fonte capaz de transformar a corrente alternada de tensão média 
 | Transistor NPN-2N2222                    | 0 | 0,00 |
 | Led vermelho                             | 0 | 0,00 |
 | Resistor 1.5k                            | 0 | 0,00 |
-| | Total: | 9,39 |
+| | Total: | 0,00 |
 
 ## Componentes:
 
