@@ -6,17 +6,18 @@ Construir uma fonte capaz de transformar a corrente alternada de tensão média 
 ## Tabela dos componentes:
 | Componentes | Quantidade | Valor unitário R$ |
 |-------------|  :---:  |----------|
-| Capacitor Eletrolítico (470uF)           | 1 | 0,00 |
-| Diodos                                   | 4 | 0,00 |
-| Zener (13V)                              | 1 | 0,00 |
-| Potenciômetro de 10k                     | 1 | 0,00 |
-| Resistor 120 ohm 2W                      | 1 | 0,00 |
-| Resistor 100 ohm 2W                      | 1 | 0,00 |
-| Resistor 3.3k                            | 1 | 0,00 |
-| Transistor NPN                           | 1 | 0,00 |
-| Led vermelho                             | 1 | 0,00 |
-| Resistor 4.7k                            | 2 | 0,00 |
-| Total:                                       | 0,00 |
+| Capacitor Eletrolítico (470uF)           | 1 | 1,50  |
+| Diodos                                   | 4 | 0,80  |
+| Diodo Zener (13V) 1N4743                 | 1 | 0,50  |
+| Potenciômetro de 10k                     | 1 | 7,00  |
+| Resistor 120 ohm 2W                      | 1 | 1,90  |
+| Resistor 3K3                             | 1 | 0,07  | 
+| Transistor NPN                           | 1 | 0,70  |
+| Led                                      | 1 | 0,50  |
+| Resistor 4K7                             | 2 | 0,15  |
+| Protoboard                               | 1 | 22,00 |
+________________________________________________________
+| Total:                                   |     35,12 |
 
 ## Componentes:
 
@@ -57,7 +58,7 @@ Link da fonte: [https://tinyurl.com/23abu5a5](https://www.falstad.com/circuit/ci
 .....
 
 ### Alunos:
-* Luis Henrique Ponciano dos Santos
-* Dante Brito
-* Gabriel de Araujo
-* Pedro Bizon
+* Luis Henrique  - Nº USP: 
+* Dante Brito - Nº USP: 
+* Gabriel de Araujo - Nº USP: 
+* Pedro Bizon - Nº USP: 
