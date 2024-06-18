@@ -16,7 +16,7 @@ Construir uma fonte capaz de transformar a corrente alternada de tensão média 
 | Led                                      | 1 | 0,50  |
 | Resistor 4K7                             | 2 | 0,15  |
 | Protoboard                               | 1 | 22,00 |
-| Total:                                   |     35,12 |
+| Total:                                   |   | 35,12 |
 
 ## Componentes:
 
