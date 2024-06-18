@@ -6,16 +6,17 @@ Construir uma fonte capaz de transformar a corrente alternada de tensão média 
 ## Tabela dos componentes:
 | Componentes | Quantidade | Valor unitário R$ |
 |-------------|  :---:  |----------|
-| Capacitor Eletrolítico (470uF) 35V       | 0 | 0,00 |
-| Diodo 1N4004                             | 0 | 0,00 |
-| Diodo Zener (13V)                        | 0 | 0,00 |
-| Potenciômetro Linear 5k                  | 0 | 0,00 |
-| Resistor 2.2K                            | 0 | 0,00 |
-| Resistor 3k                              | 0 | 0,00 |
-| Transistor NPN-2N2222                    | 0 | 0,00 |
-| Led vermelho                             | 0 | 0,00 |
-| Resistor 1.5k                            | 0 | 0,00 |
-| | Total: | 0,00 |
+| Capacitor Eletrolítico (470uF)           | 1 | 0,00 |
+| Diodos                                   | 4 | 0,00 |
+| Zener (13V)                              | 1 | 0,00 |
+| Potenciômetro de 10k                     | 1 | 0,00 |
+| Resistor 120 ohm 2W                      | 1 | 0,00 |
+| Resistor 100 ohm 2W                      | 1 | 0,00 |
+| Resistor 3.3k                            | 1 | 0,00 |
+| Transistor NPN                           | 1 | 0,00 |
+| Led vermelho                             | 1 | 0,00 |
+| Resistor 4.7k                            | 2 | 0,00 |
+| Total:                                       | 0,00 |
 
 ## Componentes:
 
