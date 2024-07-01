@@ -53,5 +53,5 @@ Link da fonte: [https://tinyurl.com/23abu5a5](https://www.falstad.com/circuit/ci
 ### Alunos:
 * Luis Henrique  - Nº USP: 15577760 
 * Dante Brito - Nº USP: 15447326
-* Gabriel de Araujo - Nº USP: 
-* Pedro Bizon - Nº USP: 
+* Gabriel de Araujo - Nº USP: 14571376 
+* Pedro Bizon - Nº USP: 11812667
