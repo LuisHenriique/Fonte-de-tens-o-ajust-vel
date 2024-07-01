@@ -46,9 +46,11 @@ Construir uma fonte capaz de transformar a corrente alternada de tensão média 
 ![image](https://github.com/LuisHenriique/Fonte-de-tens-o-ajust-vel/assets/96901986/f8ab45dc-2c73-48d5-b631-f2873c16ce75)
 Link da fonte: [https://tinyurl.com/23abu5a5](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcDoBYDsAmdA2dBOdMMADhzEnxAGZIQkE6EBTAWmICgB3GzOsHHUwIc4QVG6861EqhDDRMuZEnU+Y6QkwaJPNdNk0tNQyp45U-cThIkdZkBYNybdpbse2Tc3G9OTXHV97DgATEGCBOhwReSx5EFDmADMAQwBXABsAFzCQWyF4yPFtJLSs3PCCuO1g91KUjJy8usMY0WxtBvLm81jOx1jUEjoHaoH8EviHdpBhukm6eYkBbQovS35IL30Esqbs1kzmcIhRqFgwSXW7ZeJIOWWHG5rwbbd1Z-fX+7kBlQATm8NnBgbcRlB6PBrt8JlNtF8NhDFnMIc8KH94sRDP9rhjUfxSI80XicVi+IUEaTifwKQSJAAvcB0gZgOnUGx7RoVVgM5gAO2YAI4QLZoNQAmZ4rRbzgHDA6DkbIhuzZkzmoIgjFBMHw+G18EN8AgACVmABnACW5uyqX5AGNmCLmRDWZgVZ95NCeGLKS6-YDkBypEHFKYpRwAA5iSXuASx9TUSEqAAq3h0TnTSwu2lYMHI1AQlhkJEwevQkDASBg6FrIwQ6BIxCwZYwFz1+FUhiiRjW4gche07mH-ntIBRyxR-wu8Co1FQ0HW1D17SLkzOsErHAAbvJYj2FFnwI5+ARkxcEBwAB4RdBJxjofJ4egUObyOSRgD2Vuylu3n+vN5MD+VAqAoHAqGEbQQJAABzflQmuOkJVEX0aE5Z5kMlZUlklTD1Q5OwwHnORCIkbJwGoXB0KIqjRBQyEIFYd00HwYZsTYzAcBsdV83wYiINQCC8G2CVHwoOh9gqa4SJoyjqLI55l2g7DUEsOY8OuNTcNQ7T6WePS7mQkkfQ5HTKPELQ7CUyz3VDeg7OeBBgys+yGMw10sS0ANrm8n5nI6aZfODVUAteJzgwYqsQv8H1yDDJUwvcZ54pDaLFE+DhYPHeEcv4fAEQkIA)
 ## PCB da fonte
-![image]()
-## Pasta do projeto do EAGLE
+![Screenshot from 2024-07-01 09-24-07](https://github.com/LuisHenriique/Fonte-de-tens-o-ajust-vel/assets/96901986/1001a1ed-2826-4d34-b8c9-c384805a279c)
 
+## Esquemático da fonte
+
+![Screenshot from 2024-07-01 09-23-43](https://github.com/LuisHenriique/Fonte-de-tens-o-ajust-vel/assets/96901986/71ecc182-b293-456c-a008-a6c8e5be6616)
 
 
 
