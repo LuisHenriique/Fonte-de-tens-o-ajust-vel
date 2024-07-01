@@ -39,7 +39,7 @@ Construir uma fonte capaz de transformar a corrente alternada de tensão média 
 
 ## Cálculo do resistor do LED
 
-![image](file:///home/luishenrique/Downloads/10044fe3-58eb-4617-9f43-34ee6f160a3b.jpg)
+![image](https://github.com/LuisHenriique/Fonte-de-tens-o-ajust-vel/assets/10044fe3-58eb-4617-9f43-34ee6f160a3b.jpg)
 
 
 ## Imagem da fonte no simulador
