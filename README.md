@@ -31,10 +31,7 @@ Construir uma fonte capaz de transformar a corrente alternada de tensão média 
 
 ## Cálculo do capacitor
 
-![CodeCogsEqn (1)]()
-
-
-![CodeCogsEqn (3)]()
+![10044fe3-58eb-4617-9f43-34ee6f160a3b](https://github.com/LuisHenriique/Fonte-de-tens-o-ajust-vel/assets/96901986/f55768c8-33fe-4e7b-9829-a37be5342204)
 
 
 ## Imagem da fonte no simulador
@@ -53,6 +50,6 @@ Link da fonte: [https://tinyurl.com/23abu5a5](https://www.falstad.com/circuit/ci
 
 ### Alunos:
 * Luis Henrique  - Nº USP: 15577760 
-* Dante Brito - Nº USP: 
+* Dante Brito - Nº USP: 15447326
 * Gabriel de Araujo - Nº USP: 
 * Pedro Bizon - Nº USP: 
