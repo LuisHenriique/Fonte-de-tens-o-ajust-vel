@@ -46,6 +46,10 @@ Link da fonte: [https://tinyurl.com/23abu5a5](https://www.falstad.com/circuit/ci
 ![Screenshot from 2024-07-01 09-23-43](https://github.com/LuisHenriique/Fonte-de-tens-o-ajust-vel/assets/96901986/71ecc182-b293-456c-a008-a6c8e5be6616)
 
 ## Imagens - projeto 
+![WhatsApp Image 2024-07-01 at 11 48 11 (1)](https://github.com/brunobchinaglia/Projeto-Eletronica/assets/96901986/23fa0698-6e8f-4a3f-b323-37de53e11933)
+
+Link para o vídeo dele funcionando:
+https://youtube.com/shorts/FIiSmUm0vdw?feature=share
 
 ## Vídeo no YouTube
 .....
