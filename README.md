@@ -53,7 +53,7 @@ https://youtube.com/shorts/FIiSmUm0vdw?feature=share
 
 ## Vídeo no YouTube
 
-[.....](https://youtu.be/CQCjoK98dQ4?si=cu_7-dj7IyHiuc0L)
+https://www.youtube.com/watch?v=CQCjoK98dQ4
 
 ### Alunos:
 * Luis Henrique  - Nº USP: 15577760 
