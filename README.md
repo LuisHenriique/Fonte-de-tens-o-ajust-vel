@@ -52,7 +52,8 @@ Link para o vídeo dele funcionando:
 https://youtube.com/shorts/FIiSmUm0vdw?feature=share
 
 ## Vídeo no YouTube
-.....
+
+[.....](https://youtu.be/CQCjoK98dQ4?si=cu_7-dj7IyHiuc0L)
 
 ### Alunos:
 * Luis Henrique  - Nº USP: 15577760 
